@@ -58,4 +58,4 @@ class Solution:
 
 
 s = Solution()
-print(s.maxDistance("NSWWEW",3))
+print(s.maxDistance("NSN",1))
